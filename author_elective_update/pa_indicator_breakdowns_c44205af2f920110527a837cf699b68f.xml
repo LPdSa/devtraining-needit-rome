@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="DELETE">
+        <breakdown display_value="Priority">0df47e02d7130100b96d45a3ce610399</breakdown>
+        <display>true</display>
+        <indicator display_value="NeedIt: Active Weekly">7c453fd72f520110527a837cf699b66d</indicator>
+        <order/>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-23 17:52:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c44205af2f920110527a837cf699b68f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority.NeedIt: Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_c44205af2f920110527a837cf699b68f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:52:32</sys_updated_on>
+    </pa_indicator_breakdowns>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e73e2105dbef8c9449eac597059619e2</instance_id>
+        <instance_name>dev103039</instance_name>
+        <name>pa_indicator_breakdowns_c44205af2f920110527a837cf699b68f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns"><pa_indicator_breakdowns action="INSERT_OR_UPDATE"><breakdown display_value="Priority">0df47e02d7130100b96d45a3ce610399</breakdown><display>true</display><indicator display_value="NeedIt: Active Weekly">7c453fd72f520110527a837cf699b66d</indicator><order/><sql_statement/><sys_class_name>pa_indicator_breakdowns</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-23 17:52:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c44205af2f920110527a837cf699b68f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Priority.NeedIt: Active Weekly</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_indicator_breakdowns_c44205af2f920110527a837cf699b68f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-23 17:52:32</sys_updated_on></pa_indicator_breakdowns></record_update>]]></payload>
+        <payload_hash>1721848162</payload_hash>
+        <record_name>7c453fd72f520110527a837cf699b66d</record_name>
+        <reverted_from/>
+        <source>cec82f1b2f120110527a837cf699b61c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-23 17:52:32</sys_created_on>
+        <sys_id>c0420daf2f160110527a837cf699b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fb7e8aace0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-23 17:52:32</sys_updated_on>
+        <type>Indicator Breakdown</type>
+        <update_guid>0c420daf7f1601109838b8f901171df7</update_guid>
+        <update_guid_history>0c420daf7f1601109838b8f901171df7:1721848162</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Active Weekly">f42f6a7f2f564110527a837cf699b6b8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 20:26:45</sys_created_on>
+        <sys_db_object display_value="" name="pa_indicator_breakdowns">pa_indicator_breakdowns</sys_db_object>
+        <sys_id>ae01f731956f4d349905f6efbc5cb591</sys_id>
+        <sys_metadata>c44205af2f920110527a837cf699b68f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority.NeedIt: Active Weekly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt: Active Weekly">7c453fd72f520110527a837cf699b66d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_indicator_breakdowns_c44205af2f920110527a837cf699b68f</sys_update_name>
+        <sys_update_version display_value="pa_indicator_breakdowns_c44205af2f920110527a837cf699b68f">c0420daf2f160110527a837cf699b6f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 20:26:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
